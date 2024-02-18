@@ -10,4 +10,22 @@ if __name__ == "__main__" :
 
 1. Block de notas y terminal
 
-! [BlockNotas] ([https://files.fm/u/bcskfs2qqt](https://files.fm/f/3mfte3gep8)https://files.fm/f/3mfte3gep8)
+![BlockNotas](https://i.ibb.co/X7fVh7V/Captura-de-pantalla-2024-02-18-093927.png)
+
+***
+
+2. VSCode
+
+![BlockNotas](https://i.ibb.co/G2XSTY5/Captura-de-pantalla-2024-02-18-092739.png)
+
+***
+
+3. Interprete de python
+
+![BlockNotas](https://i.ibb.co/LJZdpmC/Captura-de-pantalla-2024-02-18-093413.png)
+
+***
+
+4. Git
+
+![BlockNotas](https://i.ibb.co/pQv03QQ/Captura-de-pantalla-2024-02-18-093107.png)
